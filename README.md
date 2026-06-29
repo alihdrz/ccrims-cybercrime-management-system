@@ -1,5 +1,3 @@
-# ccrims-cybercrime-management-system
-A secure, database-driven web application for managing cybercrime reporting, departmental workflows, and forensic evidence tracking.
 # 🛡️ CCRIMS - Cyber Crime Reporting and Investigation Management System
 
 [cite_start]A centralized, database-driven web application designed to handle the full lifecycle of cybercrime investigations[cite: 8, 101]. [cite_start]**CCRIMS** streamlines online complaint filing for citizens, provides case tracking for investigation officers, establishes a digital chain of custody with file-hash integrity for forensic experts, and ensures legal overhead with warrant tracking[cite: 9, 101, 104].
